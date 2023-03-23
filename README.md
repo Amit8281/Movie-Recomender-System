@@ -11,8 +11,7 @@ You can install these packages using pip, which is the default package installer
 # Usage
 To use the movie recommendation system, you will need to have a dataset of movies and their attributes such as genre, director, actor, storyline, etc. You can obtain a dataset from various sources such as IMDB, Netflix, or Kaggle. The dataset should be in CSV format, with each row representing a movie and each column representing an attribute.
 
-Once you have the dataset, you can run the recommendation.py file, which will generate a personalized list of movie recommendations based on the user's past movie ratings and watch history. The user's data should be in CSV format, with each row representing a movie and each column representing a rating.
-To run the recommendation system, open the terminal and navigate to the directory where the recommendation.py file is located. Then, run the following command:
-python recommendation.py --movies movies.csv --users users.csv --output recommendations.csv
+Once you have the dataset, you can run the "Movie Recomender System (5).ipynb" file, which will generate a personalized list of movie recommendations based on the user's past movie ratings and watch history. The user's data should be in CSV format, with each row representing a movie and each column representing a rating.
+
 # Contributing
 Contributions to the movie recommendation system are welcome! If you find any issues or have any ideas for improvement, please open an issue or a pull request on GitHub.
