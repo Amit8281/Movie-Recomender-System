@@ -1,12 +1,11 @@
-# Movie-Recomender-System
-## End to End Project
-This is a movie recommendation system that suggests movies to users based on their viewing history and preferences. The system uses machine learning algorithms to analyze the user's past movie ratings, watch history, and other relevant data to generate a personalized list of movie recommendations.
+# Movie Recommender System End-to-End Project
+Welcome to the Movie Recommender System End-to-End Project! In this project, we will build a machine learning model that recommends movies to users based on their viewing history and preferences. We will use Python and several libraries such as Pandas, Scikit-learn, and Surprise to build and train our model.
 # Installation
 To use the movie recommendation system, you will need to have Python 3 installed on your computer. You can download Python 3 from the official Python website. Additionally, you will need to install the following packages:
 
-pandas
-numpy
-scikit-learn
+- pandas
+- numpy
+- scikit-learn
 You can install these packages using pip, which is the default package installer for Python. Open the terminal and type the following command:
 !pip install pandas numpy scikit-learn
 # Usage
