@@ -1,5 +1,11 @@
 # Movie Recommender System End-to-End Project
-Welcome to the Movie Recommender System End-to-End Project! In this project, we will build a model that recommends movies to users based on their viewing history and preferences. 
+The Movie Recommender System End-to-End Project involves building a machine learning model that recommends movies to users based on their viewing history and preferences. The project involves several steps such as data collection, data preprocessing, exploratory data analysis, feature engineering, model selection.
+
+During the data collection phase, we need to collect the movie dataset and load it into a suitable data structure such as a Pandas dataframe. In the data preprocessing phase, we perform data cleaning, data normalization, and data transformation techniques. In the exploratory data analysis phase, we conduct exploratory data analysis to understand the characteristics of the data and identify patterns and trends.
+
+In the feature engineering phase, we extract and select relevant features from the data that can be used as inputs to the machine learning model. In the model selection phase, we select an appropriate machine learning model such as collaborative filtering or content-based filtering that can generate movie recommendations based on user preferences.
+
+Overall, building a movie recommender system end-to-end project involves several technical skills such as programming in Python, knowledge of machine learning algorithms, data preprocessing techniques, and data visualization. It is an exciting project that requires attention to detail and creativity in identifying the most suitable techniques for generating accurate and relevant movie recommendations for users.. 
 
 # Installation
 To use the movie recommendation system, you will need to have Python 3 installed on your computer. You can download Python 3 from the official Python website. Additionally, you will need to install the following packages:
