@@ -1,4 +1,5 @@
 # Movie-Recomender-System
+## End to End Project
 This is a movie recommendation system that suggests movies to users based on their viewing history and preferences. The system uses machine learning algorithms to analyze the user's past movie ratings, watch history, and other relevant data to generate a personalized list of movie recommendations.
 # Installation
 To use the movie recommendation system, you will need to have Python 3 installed on your computer. You can download Python 3 from the official Python website. Additionally, you will need to install the following packages:
